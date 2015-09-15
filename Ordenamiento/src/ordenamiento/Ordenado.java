@@ -1,6 +1,7 @@
 
 package ordenamiento;
 
+
 public class Ordenado {
 
     public static void main(String[] args) {
