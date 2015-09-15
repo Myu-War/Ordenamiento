@@ -1,6 +1,4 @@
-
 package ordenamiento;
-
 
 public class OrdenInv {
 
